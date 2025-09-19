@@ -7,4 +7,5 @@ print(x)
 
 print("I still like this World")
 
+print("Is my new servant ready?")
 
